@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+	font-size: 50px;
+}
+
+h1 {
+	color: orange;
+	transition: ease-in-out 1s;
+}
